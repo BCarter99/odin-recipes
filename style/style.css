@@ -4,6 +4,10 @@ html , body {
     background-color: antiquewhite;
 }
 
+h1 {
+    font-family: 'Lucida Console', 'Courier New', monospace;
+}
+
 .page-title , .recipe-links {
     text-align: center;
 }
@@ -18,5 +22,6 @@ html , body {
 }
 
 .recipe-links {
-
+    font-family: 'Lucida Handwriting', cursive;
+    font-size: 26px;
 }
